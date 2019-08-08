@@ -2,18 +2,20 @@
 
  source code for the course "data starcture in C"
  
-请在https://hwdong.net 上的链接 购买腾讯课堂上的数据结构课程，欢迎转发、分享
+请在[https://hwdong.net]上的链接 购买腾讯课堂上的数据结构课程，欢迎转发、分享
 
-教学博客：https ://hwdong.net
+### 教学资源
 
-youtube频道： hwdong
+- 教学博客：https://hwdong.net
+- youtube频道： [hwdong](https://www.youtube.com/channel/UCIJLimsCMSfc3wHmevgj8Ng)
+-  twitter： hwdong
+- B站和微博：[hw-dong](https://space.bilibili.com/281453312) 
+- qq群：[101132160](https://hwdong.net/img2/qq.jpg)
 
-twitter： hwdong
+    <div align="center"> <img src="https://hwdong.net/img2/qq.jpg" width="200"/> </div><br>
 
-B站和微博：hw - dong
+- 微信公众号：hwdong编程
 
-qq群：101132160
-
-微信公众号：hwdong编程
-
-版权所有 侵权必究
+   <div align="center"> <img src="https://hwdong.net/img2/hwdong_pro.jpg" width="200"/> </div><br>
+   
+- C++17从入门到精通（源代码）：[https://github.com/hwdong-net/cplusplus17](https://github.com/hwdong-net/cplusplus17)
