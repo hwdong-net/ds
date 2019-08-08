@@ -2,7 +2,7 @@
 
  source code for the course "data starcture in C"
  
-请在[https://hwdong.net](https://hwdong.net) 上首页菜单"**课程的促销**"购买腾讯课堂上的数据结构课程，欢迎转发、分享
+请在[https://hwdong.net](https://hwdong.net) 上首页菜单"**课程的促销**"购买腾讯课堂上的数据结构课程，欢迎转发、分享。请在github项目上点赞，谢谢！
 
 也欢迎网友共同参与，提供各种数据结构的试题的刷题，我将放到专门的刷题的文件夹ds_code里。
 
