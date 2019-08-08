@@ -2,7 +2,7 @@
 
  source code for the course "data starcture in C"
  
-请在[https://hwdong.net]上的链接 购买腾讯课堂上的数据结构课程，欢迎转发、分享
+请在[https://hwdong.net]上购买腾讯课堂上的数据结构课程，欢迎转发、分享
 
 ### 教学资源
 
