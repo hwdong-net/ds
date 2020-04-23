@@ -13,4 +13,4 @@ f(4) = f(6) = 3
 + Range(f) = $S_k$，其中$k\leq n$。一个$S_n$分割可能包含$k$个子集（$k=1,2,\cdots,n$）。
 + 对$i<j$,集合i中的最小数小于集合j中的最小数。
 
-编写一个程序，输入n，输出任意一个partition_function。
+ 编写一个程序，输入n，输出任意一个partition_function。
